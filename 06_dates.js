@@ -1,0 +1,4 @@
+let d1=new Date()
+console.log(d1.getMinutes());
+
+console.log(d1.toLocaleString('default', { weekday:"long"}));
